@@ -45,16 +45,10 @@ ul {
 }
 
 a:link {
+    text-decoration: underline;
     color: #0094DE;
-    text-decoration: none;
 
 
-}
-a:visited {
-        text-decoration: none;
-color: #c6c5be;
-
-}
 a:hover {
 text-decoration: underline;
 color: #b5b5b5;
