@@ -42,16 +42,25 @@ ul {
     padding-right: 30px;
     padding-bottom: 10px;
     padding-left: 100px;
-}
+down vote
+favorite
+4
+In my Page the following CSS is set:
 
 a:link {
-    text-decoration: underline;
-    color: #0094DE;
+    color: #ababa8;
+    text-decoration: none;
 
 
+}
+a:visited {
+        text-decoration: none;
+color: #d7d6d2;
+
+}
 a:hover {
 text-decoration: underline;
-color: #b5b5b5;
+color: #1797cd;
 
 }
 
