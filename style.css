@@ -48,7 +48,7 @@ favorite
 In my Page the following CSS is set:
 
 a:link {
-    color: #ababa8;
+    color: #069be8;
     text-decoration: none;
 
 
@@ -60,7 +60,7 @@ color: #d7d6d2;
 }
 a:hover {
 text-decoration: underline;
-color: #1797cd;
+color: #adadac;
 
 }
 
